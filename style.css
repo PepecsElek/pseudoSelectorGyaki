@@ -1,0 +1,8 @@
+div{
+  border:2px solid black;
+  border-top:0;
+  margin:0 500px;
+  padding:25px;
+}
+#utolsó{border-bottom:none}
+div:hover{background:orange}
